@@ -13,7 +13,7 @@ public class MultiplicationTest {
 		
 		int y=sc.nextInt();
 		
-		System.out.println("결과:"+x+"x"+y+"="+x*y);
+		System.out.println("결과:"+x+" x "+y+"="+x*y);
 	}
 
 }
